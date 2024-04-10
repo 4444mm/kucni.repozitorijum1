@@ -1,0 +1,33 @@
+.form-container {
+    display: flex;
+    width: 800px;
+    justify-content: space-around;
+  }
+  
+  .input-container {
+    width: 40%;
+  }
+  
+  #posalji {
+    width: 100%;
+    background-color: blue;
+    color: white;
+    border: transparent;
+    border-radius: 15px;
+  }
+  
+  #posalji:hover {
+    cursor: pointer;
+    background-color: rgb(85, 85, 235);
+    transition: 0.5s;
+  }
+  
+  .hidden {
+    display: none;
+    
+  }
+  
+  .show{
+    color:red;
+  
+  }

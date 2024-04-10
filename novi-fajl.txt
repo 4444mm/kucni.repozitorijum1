@@ -1,2 +1,3 @@
 "tekts na master grani" 
 "tekst na grani nova-grana" 
+izmena na hub-u
